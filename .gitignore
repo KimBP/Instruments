@@ -1,0 +1,5 @@
+*.pdf
+*backups
+*.lck
+*.swp
+*.bak
